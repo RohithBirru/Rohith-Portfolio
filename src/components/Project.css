@@ -1,0 +1,26 @@
+#project{
+    overflow: hidden;
+    width: 100vw;
+    max-width: 50rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+
+}
+.projectsec{
+    font-size: 3rem;
+    font-weight: 600;
+    padding-top: 3rem;
+    margin-bottom: 1.5rem;
+    border-bottom: red
+}
+.todo{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.todo:hover{
+    color: yellow;
+}

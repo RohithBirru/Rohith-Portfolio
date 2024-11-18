@@ -1,0 +1,42 @@
+.contact{
+    margin: 1rem 0;
+    font-size: 3rem;
+    padding-left: 20rem;
+    margin-top: 6rem;
+
+
+}
+.contactform{
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    max-width: 60rem;
+}
+.name{
+    font-size: medium;
+    width: 100%;
+    max-width: 40rem;
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    color: black;
+    border: none;
+    border-radius: 0.5rem;
+    background: white;
+}
+.submit{
+    height: 2rem;
+    width: 4rem;
+    color: black;
+    background: white;
+    border: none;
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
+.submit:hover{
+    cursor: pointer;
+    background: black;
+    color: white;
+}
